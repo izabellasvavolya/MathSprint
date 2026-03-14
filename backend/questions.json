@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": "Solve: 2x + 6 = 10",
+    "answer": "2"
+  },
+  {
+    "id": 2,
+    "question": "Triangle angles: 40° and 60°. What is the third angle?",
+    "answer": "80"
+  },
+  {
+    "id": 3,
+    "question": "What is 1/2 + 1/4?",
+    "answer": "3/4"
+  }
+]
